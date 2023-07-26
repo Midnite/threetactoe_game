@@ -23,13 +23,13 @@ To run Threetac Toe:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Midnite/threetactoe.git
+git clone https://github.com/Midnite/threetactoe_game.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd threetactoe
+cd threetactoe_game
 ```
 
 3. Install the required dependencies:
